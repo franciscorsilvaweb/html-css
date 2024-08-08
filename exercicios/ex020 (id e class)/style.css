@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+/*  EM HTML ID = EM CSS É #
+    EM HTML CLASS = EM CSS É . */
+
+
+body{
+    background-color: #abc5ab;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: rgb(7, 53, 14);
+}
+
+h1#principal{
+
+    background-image: linear-gradient(to right, green, #abc5ab);
+    color: bisque;
+    text-align: center;
+}
+
+h2{
+    color: rgb(63, 153, 63);
+}
+
+.basico{
+    color: rgb(15, 77, 23)
+
+}
+
+.intermediario{
+    color: rgb(73, 77, 15)
+}
+
+.avancado{
+    color: rgb(77, 15, 15)
+
+}
+
+.destaque{
+
+    background-color: beige;
+}
+
